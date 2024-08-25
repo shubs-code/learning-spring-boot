@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.shubham.subscription;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class SubscriptionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(SubscriptionApplication.class, args);
 	}
 
 }
